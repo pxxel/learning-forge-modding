@@ -20,6 +20,8 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.SHOTGUN_SHELL.get());
                         pOutput.accept(ModItems.BULLET.get());
                         pOutput.accept(ModItems.ROCKET.get());
+                        pOutput.accept(ModItems.PLASMA_CELL.get());
+                        pOutput.accept(ModItems.ARGENT_CELL.get());
                     })
                     .build());
 

@@ -2,5 +2,7 @@
   "item.tutorialmod.shotgun_shell": "Shotgun Shell",
   "item.tutorialmod.bullet": "Bullet",
   "item.tutorialmod.rocket": "Rocket",
+  "item.tutorialmod.plasma_cell": "Plasma Cell",
+  "item.tutorialmod.argent_cell": "Argent Cell",
   "creativetab.tutorial_tab": "DOOM Arsenal"
 }
