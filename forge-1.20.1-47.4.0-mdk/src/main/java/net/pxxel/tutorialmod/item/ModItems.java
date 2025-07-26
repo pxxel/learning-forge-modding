@@ -1,5 +1,6 @@
 package net.pxxel.tutorialmod.item;
 
+import io.netty.util.Attribute;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.Rarity;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -26,6 +27,14 @@ public class ModItems {
 
     public static final RegistryObject<Item> ARGENT_CELL = ITEMS.register("argent_cell",
             () -> new Item(new Item.Properties().rarity(Rarity.UNCOMMON).stacksTo(1)));
+
+
+    //tutorial stuff
+    public static final RegistryObject<Item> SAPPHIRE = ITEMS.register("sapphire",
+            () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> METAL_DETECTOR = ITEMS.register("metal_detector",
+            () -> new MetalDetectorItem(new Item.Properties().durability(100)));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

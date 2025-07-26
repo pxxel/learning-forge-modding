@@ -4,5 +4,15 @@
   "item.tutorialmod.rocket": "Rocket",
   "item.tutorialmod.plasma_cell": "Plasma Cell",
   "item.tutorialmod.argent_cell": "Argent Cell",
-  "creativetab.tutorial_tab": "DOOM Arsenal"
+
+  "item.tutorialmod.sapphire": "Sapphire",
+  "block.tutorialmod.sapphire_block": "Block of Sapphire",
+  "block.tutorialmod.sapphire_ore": "Sapphire Ore",
+  "block.tutorialmod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+  "block.tutorialmod.nether_sapphire_ore": "Nether Sapphire Ore",
+  "block.tutorialmod.end_sapphire_ore": "End Sapphire Ore",
+  "item.tutorialmod.metal_detector": "Metal Detector",
+
+  "creativetab.doom_arsenal_tab": "DOOM Arsenal",
+  "creativetab.tutorial_tab": "Tutorial Tab"
 }
